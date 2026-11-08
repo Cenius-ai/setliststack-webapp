@@ -1,0 +1,11 @@
+# the tool's own state file (one per host / per gig)
+setliststack_state.json
+*.state.json
+
+# python
+__pycache__/
+*.pyc
+
+# editors / OS
+.DS_Store
+*.swp
