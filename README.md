@@ -39,7 +39,7 @@ See [`INSTALL.md`](INSTALL.md) for full setup and usage instructions.
 
 ## Architecture
 
-Folder layout not shown. Run `./install.sh` once to install packages and populate demo data — the app is ready to use immediately after. Built in Full-stack app (22 files). Step-by-step setup guide: [`INSTALL.md`](INSTALL.md).
+Folder layout not shown. Run `./install.sh` once to install packages and populate demo data — the app is ready to use immediately after. Built in Full-stack app (12 files). Step-by-step setup guide: [`INSTALL.md`](INSTALL.md).
 
 ## Usage guide
 
